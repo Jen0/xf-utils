@@ -1,7 +1,4 @@
-import dayjs from "dayjs";
-
 const ab: number = 1;
-console.log(dayjs().toDate());
 interface Person {
   name: string;
   age: number;
